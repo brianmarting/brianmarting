@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianmarting
-- 👀 I’m interested in softwar development, specifically full stack development (Angular/Reacht & Java) and blockchain tech.
+- 👀 I’m interested in software development, specifically full stack development (Angular/Reacht & Java) and blockchain tech.
 - 🌱 I’m currently learning blockchain tech with solidity (ethereum smart contracts)
 - 💞️ I’m looking to collaborate on blockchain tech
 - 📫 How to reach me brian.marting1@gmail.com
