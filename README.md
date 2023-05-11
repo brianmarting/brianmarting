@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brianmarting
-- 👀 I’m interested in software development, backend development in spring(java & kotlin) and blockchain technologies.
-- 🌱 I’m currently learning blockchain tech with solidity (ethereum smart contracts) along with webflux.
-- 📫 How to reach me brian.marting1@gmail.com
+- 👀 I’m mainly interested in devops.
+- 🌱 I’m currently learning golang.
 
 <!---
 brianmarting/brianmarting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
